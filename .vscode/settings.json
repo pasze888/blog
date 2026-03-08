@@ -1,0 +1,4 @@
+{
+  "editor.formatOnSave": true,
+  "explorer.autoReveal": false//防止资源管理器自动定位到当前打开的文件
+}
